@@ -1,0 +1,4 @@
+- Olá, Sou Jhonata França da Cruz
+- Possuo interesse em programação no geral, desde segurança até desenvolvimento web
+- Atualmente estou aprendendo Java, Python e Delphi
+- Você pode me contatar no WhatsApp (48) 998800-2015 ou em meu Gmail, jhonatafranca1137@gmail.com
